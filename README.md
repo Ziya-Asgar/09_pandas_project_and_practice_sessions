@@ -31,3 +31,8 @@ The project could be coded along following this link:
 
 The project could be coded along following this link:  
 [12 Practical Pandas Rolling Examples](https://www.youtube.com/watch?v=-YfPCxZ2TFE)
+
+- Pandas `where`.
+
+The project could be coded along following this link:  
+[Pandas where() Explained with Multiple Examples](https://www.youtube.com/watch?v=Y7HMkDuR_DA)
