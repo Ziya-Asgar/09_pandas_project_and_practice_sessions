@@ -4,6 +4,17 @@ This repository contains several practice projects using Python Pandas.
 
 - Data Cleaning with Pandas.
 
+The project file is [pandas_data_cleaning.ipynb](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions/blob/main/pandas_data_cleaning.ipynb)
+
+This project performs data cleaning and exploratory analysis on cricket match statistics. The analysis includes:
+
+- Renaming columns for clarity (Mat → Matches, NO → Not_Outs, etc.)
+- Handling missing values
+- Removing duplicate entries
+- Extracting player names and country codes from combined fields
+- Parsing year ranges into separate columns
+- Converting data types and removing special characters (+, \*) from numeric fields
+
 The project could be coded along following this link:  
 [Real World Data Cleaning in Python Pandas (Step By Step)](https://www.youtube.com/watch?v=iaZQF8SLHJs)
 
