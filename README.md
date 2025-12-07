@@ -123,6 +123,20 @@ The project could be coded along following this link:
 
 ## Pandas `rolling`
 
+This Jupyter notebook demonstrates pandas `rolling` window functions with examples using venue data (capacity and ticket sales).
+
+The project file is [pandas_rolling.ipynb](./pandas_rolling.ipynb)
+
+Key topics covered:
+
+- **Basic rolling operations**: `mean()`, `sum()`, `min()`, and `max()` across a 3-5 row window
+- **Multiple column aggregation**: calculating rolling statistics on different columns simultaneously
+- **Custom functions**: using `.apply()` for custom rolling calculations
+- **Grouped rolling windows**: computing rolling averages within specific groups (by venue)
+- **Advanced techniques**:
+  - `.shift()` to compare current values against previous rolling averages
+  - `.ffill()` for forward-filling missing values before rolling calculations
+
 The project could be coded along following this link:  
 [12 Practical Pandas Rolling Examples](https://www.youtube.com/watch?v=-YfPCxZ2TFE)
 
