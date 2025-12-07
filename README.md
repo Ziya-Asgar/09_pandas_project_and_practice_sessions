@@ -15,7 +15,7 @@ This repository contains several practice projects using Python Pandas.
 
 ## Data Cleaning with Pandas
 
-The project file is [pandas_data_cleaning.ipynb](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions/blob/main/pandas_data_cleaning.ipynb)
+The project file is [pandas_data_cleaning.ipynb](./pandas_data_cleaning.ipynb)
 
 This project performs data cleaning and exploratory analysis on cricket match statistics. The analysis includes:
 
@@ -35,7 +35,7 @@ The project could be coded along following this link:
 
 This project analyzes two centuries of ultramarathon race data, focusing specifically on 50km and 50-mile races in the USA during 2020.
 
-The project file is [pandas_data_cleaning.ipynb](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions/blob/main/pandas_EDA.ipynb)
+The project file is [pandas_EDA.ipynb](./pandas_EDA.ipynb)
 
 - **Data Loading & Cleaning**: Imports a large dataset (7.4M+ rows) of ultramarathon races and filters it down to relevant races
 - **Data Filtering**: Extracts races that are:
