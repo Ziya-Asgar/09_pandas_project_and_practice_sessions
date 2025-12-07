@@ -2,7 +2,17 @@
 
 This repository contains several practice projects using Python Pandas.
 
-- Data Cleaning with Pandas.
+- [Notes](#notes)
+  - [Data Cleaning with Pandas.](#data-cleaning-with-pandas)
+  - [Exploratory Data Analysis with Pandas.](#exploratory-data-analysis-with-pandas)
+  - [Pandas `groupby` Function Using Seaborn datasets.](#pandas-groupby-function-using-seaborn-datasets)
+  - [Sorting Data in Pandas.](#sorting-data-in-pandas)
+  - [Pandas `replace`.](#pandas-replace)
+  - [Pandas `rolling`.](#pandas-rolling)
+
+---
+
+## Data Cleaning with Pandas.
 
 The project file is [pandas_data_cleaning.ipynb](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions/blob/main/pandas_data_cleaning.ipynb)
 
@@ -20,7 +30,7 @@ The project could be coded along following this link:
 
 ---
 
-- Exploratory Data Analysis with Pandas.
+## Exploratory Data Analysis with Pandas.
 
 This project analyzes two centuries of ultramarathon race data, focusing specifically on 50km and 50-mile races in the USA during 2020.
 
@@ -48,22 +58,28 @@ The project could be coded along following this link:
 
 ---
 
-- Pandas `groupby` Function Using Seaborn datasets.
+## Pandas `groupby` Function Using Seaborn datasets.
 
 The project could be coded along following this link:  
 [The Complete Guide to Python Pandas Groupby](https://www.youtube.com/watch?v=L5kf4sQnVhI)
 
-- Sorting Data in Pandas.
+---
+
+## Sorting Data in Pandas.
 
 The project could be coded along following this link:  
 [How to Sort Data in Python Pandas](https://www.youtube.com/watch?v=VcwxUet5a3k)
 
-- Pandas `replace`.
+---
+
+## Pandas `replace`.
 
 The project could be coded along following this link:  
 [Clean Your Data FAST with Pandas replace()](https://www.youtube.com/watch?v=uMuyRonKMk4)
 
-- Pandas `rolling`.
+---
+
+## Pandas `rolling`.
 
 The project could be coded along following this link:  
 [12 Practical Pandas Rolling Examples](https://www.youtube.com/watch?v=-YfPCxZ2TFE)
