@@ -144,5 +144,18 @@ The project could be coded along following this link:
 
 ## Pandas `where`
 
+This notebook demonstrates various use cases of the pandas `.where()` method for conditional data filtering and replacement.
+
+The project file is [pandas_where.ipynb](./pandas_where.ipynb)
+
+Key topics covered:
+
+- **Basic filtering**: Keeping values that meet conditions, replacing others with NaN
+- **Value replacement**: Using the `other` parameter to replace filtered values with specific alternatives
+- **Null handling**: Filling null values conditionally
+- **Column-based conditions**: Filtering entire dataframes based on single column criteria
+- **Complex conditions**: Combining multiple conditions using `&` (AND) and `|` (OR) operators
+- **Column creation**: Generating new columns with conditional values
+
 The project could be coded along following this link:  
 [Pandas where() Explained with Multiple Examples](https://www.youtube.com/watch?v=Y7HMkDuR_DA)
