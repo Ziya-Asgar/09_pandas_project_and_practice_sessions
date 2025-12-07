@@ -103,6 +103,19 @@ The project could be coded along following this link:
 
 ## Pandas `replace`
 
+The notebook covers seven practical examples of using pandas' `replace()` method.
+
+The project file is [pandas_replace.ipynb](./pandas_replace.ipynb)
+
+Key topics covered:
+
+- **Single value replacement**: Replace one specific value in a column
+- **Multiple values to one**: Replace several values with a single value
+- **Dictionary mapping**: Replace multiple values with multiple values using a dictionary
+- **List-based replacement**: Replace multiple values with multiple values using a list
+- **Entire DataFrame replacement**: Apply replacements across all columns at once
+- **Regex pattern matching**: Use regular expressions to find and replace partial text patterns
+
 The project could be coded along following this link:  
 [Clean Your Data FAST with Pandas replace()](https://www.youtube.com/watch?v=uMuyRonKMk4)
 
