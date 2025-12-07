@@ -61,6 +61,19 @@ The project could be coded along following this link:
 
 ## Pandas `groupby` Function Using Seaborn datasets.
 
+This Jupyter notebook is a comprehensive pandas `groupby` operations tutorial that demonstrates various data aggregation and transformation techniques using two datasets from the Seaborn library: the "tips" dataset (restaurant tipping data) and the "taxis" dataset (NYC taxi ride data).
+
+Key topics covered:
+
+- **Basic aggregations**: `mean()`, `median()`, `sum()`, `count()`, `min()`, `max()`, `nunique()`
+- **Multiple aggregations**: Using `agg()` with lists and custom column names
+- **Multi-level grouping**: Grouping by multiple columns simultaneously
+- **Statistical summaries**: `describe()` and quantile calculations
+- **Transform operations**: Adding group-level statistics back to the original dataframe (e.g., median bill per time period, z-scores)
+- **Custom functions**: Using `apply()` with lambda functions for complex calculations (e.g., average tip percentage)
+- **DateTime operations**: Grouping by date components (month extraction)
+- **Interquartile range calculations**: Computing Q1, Q3, and IQR for different groups
+
 The project could be coded along following this link:  
 [The Complete Guide to Python Pandas Groupby](https://www.youtube.com/watch?v=L5kf4sQnVhI)
 
