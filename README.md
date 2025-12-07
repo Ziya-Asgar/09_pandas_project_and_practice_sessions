@@ -63,6 +63,8 @@ The project could be coded along following this link:
 
 This Jupyter notebook is a comprehensive pandas `groupby` operations tutorial that demonstrates various data aggregation and transformation techniques using two datasets from the Seaborn library: the "tips" dataset (restaurant tipping data) and the "taxis" dataset (NYC taxi ride data).
 
+The project file is [pandas_groupby.ipynb](./pandas_groupby.ipynb)
+
 Key topics covered:
 
 - **Basic aggregations**: `mean()`, `median()`, `sum()`, `count()`, `min()`, `max()`, `nunique()`
