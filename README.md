@@ -8,7 +8,8 @@ This repository contains several practice projects using Python Pandas.
   - [Pandas `groupby` Function Using Seaborn datasets.](#pandas-groupby-function-using-seaborn-datasets)
   - [Sorting Data in Pandas.](#sorting-data-in-pandas)
   - [Pandas `replace`.](#pandas-replace)
-  - [Pandas `rolling`.](#pandas-rolling)
+  - [Pandas `rolling`](#pandas-rolling)
+  - [Pandas `where`](#pandas-where)
 
 ---
 
@@ -79,12 +80,14 @@ The project could be coded along following this link:
 
 ---
 
-## Pandas `rolling`.
+## Pandas `rolling`
 
 The project could be coded along following this link:  
 [12 Practical Pandas Rolling Examples](https://www.youtube.com/watch?v=-YfPCxZ2TFE)
 
-- Pandas `where`.
+---
+
+## Pandas `where`
 
 The project could be coded along following this link:  
 [Pandas where() Explained with Multiple Examples](https://www.youtube.com/watch?v=Y7HMkDuR_DA)
