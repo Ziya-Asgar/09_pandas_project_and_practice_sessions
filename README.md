@@ -3,17 +3,17 @@
 This repository contains several practice projects using Python Pandas.
 
 - [Notes](#notes)
-  - [Data Cleaning with Pandas.](#data-cleaning-with-pandas)
-  - [Exploratory Data Analysis with Pandas.](#exploratory-data-analysis-with-pandas)
-  - [Pandas `groupby` Function Using Seaborn datasets.](#pandas-groupby-function-using-seaborn-datasets)
-  - [Sorting Data in Pandas.](#sorting-data-in-pandas)
-  - [Pandas `replace`.](#pandas-replace)
+  - [Data Cleaning with Pandas](#data-cleaning-with-pandas)
+  - [Exploratory Data Analysis with Pandas](#exploratory-data-analysis-with-pandas)
+  - [Pandas `groupby` Function Using Seaborn datasets](#pandas-groupby-function-using-seaborn-datasets)
+  - [Sorting Data in Pandas](#sorting-data-in-pandas)
+  - [Pandas `replace`](#pandas-replace)
   - [Pandas `rolling`](#pandas-rolling)
   - [Pandas `where`](#pandas-where)
 
 ---
 
-## Data Cleaning with Pandas.
+## Data Cleaning with Pandas
 
 The project file is [pandas_data_cleaning.ipynb](https://github.com/Ziya-Asgar/09_pandas_project_and_practice_sessions/blob/main/pandas_data_cleaning.ipynb)
 
@@ -31,7 +31,7 @@ The project could be coded along following this link:
 
 ---
 
-## Exploratory Data Analysis with Pandas.
+## Exploratory Data Analysis with Pandas
 
 This project analyzes two centuries of ultramarathon race data, focusing specifically on 50km and 50-mile races in the USA during 2020.
 
@@ -59,7 +59,7 @@ The project could be coded along following this link:
 
 ---
 
-## Pandas `groupby` Function Using Seaborn datasets.
+## Pandas `groupby` Function Using Seaborn datasets
 
 This Jupyter notebook is a comprehensive pandas `groupby` operations tutorial that demonstrates various data aggregation and transformation techniques using two datasets from the Seaborn library: the "tips" dataset (restaurant tipping data) and the "taxis" dataset (NYC taxi ride data).
 
@@ -81,14 +81,27 @@ The project could be coded along following this link:
 
 ---
 
-## Sorting Data in Pandas.
+## Sorting Data in Pandas
+
+This Jupyter notebook demonstrates comprehensive sorting techniques in pandas.
+
+The project file is [pandas_sorting.ipynb](./pandas_sorting.ipynb)
+
+Key topics covered:
+
+- **Basic sorting**: Series and DataFrame sorting with `sort_values()` (ascending/descending)
+- **Multi-column sorting**: Sorting by multiple columns with different sort orders
+- **Handling missing data**: Using `na_position` parameter to control NaN placement
+- **Index sorting**: Sorting by index with `sort_index()`, including date-based indices
+- **Custom sorting**: Using the `key` parameter with lambda functions for custom sort logic
+- **Top/bottom selection**: Using `nlargest()` and `nsmallest()` for efficient retrieval of extreme values
 
 The project could be coded along following this link:  
 [How to Sort Data in Python Pandas](https://www.youtube.com/watch?v=VcwxUet5a3k)
 
 ---
 
-## Pandas `replace`.
+## Pandas `replace`
 
 The project could be coded along following this link:  
 [Clean Your Data FAST with Pandas replace()](https://www.youtube.com/watch?v=uMuyRonKMk4)
