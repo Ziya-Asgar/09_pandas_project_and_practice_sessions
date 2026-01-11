@@ -4,7 +4,6 @@ This repository contains several practice projects using Python Pandas.
 
 - [Notes](#notes)
   - [Data Cleaning with Pandas](#data-cleaning-with-pandas)
-  - [Exploratory Data Analysis with Pandas](#exploratory-data-analysis-with-pandas)
   - [Pandas `groupby` Function Using Seaborn datasets](#pandas-groupby-function-using-seaborn-datasets)
   - [Sorting Data in Pandas](#sorting-data-in-pandas)
   - [Pandas `replace`](#pandas-replace)
@@ -28,34 +27,6 @@ This project performs data cleaning and exploratory analysis on cricket match st
 
 The project could be coded along following this link:  
 [Real World Data Cleaning in Python Pandas (Step By Step)](https://www.youtube.com/watch?v=iaZQF8SLHJs)
-
----
-
-## Exploratory Data Analysis with Pandas
-
-This project analyzes two centuries of ultramarathon race data, focusing specifically on 50km and 50-mile races in the USA during 2020.
-
-The project file is [pandas_EDA.ipynb](./pandas_EDA.ipynb)
-
-- **Data Loading & Cleaning**: Imports a large dataset (7.4M+ rows) of ultramarathon races and filters it down to relevant races
-- **Data Filtering**: Extracts races that are:
-  - 50km or 50-mile distances
-  - Held in the USA
-  - Took place in 2020
-- **Data Transformation**:
-  - Removes country codes from event names
-  - Calculates athlete ages
-  - Cleans performance times
-  - Removes null values
-  - Standardizes column names
-- **Final Dataset**: Produces a cleaned dataset of 25,857 race results with key metrics including:
-  - Race details (date, name, length, finishers)
-  - Athlete information (ID, gender, age)
-  - Performance metrics (time, average speed)
-- **Visualization**: Includes basic exploratory analysis with distribution plots of race lengths
-
-The project could be coded along following this link:  
-[Data Analyst Portfolio Project (Exploratory Data Analysis With Python Pandas)](https://www.youtube.com/watch?v=4sZFkPw87ng)
 
 ---
 
