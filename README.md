@@ -3,30 +3,11 @@
 This repository contains several practice projects using Python Pandas.
 
 - [Notes](#notes)
-  - [Data Cleaning with Pandas](#data-cleaning-with-pandas)
   - [Pandas `groupby` Function Using Seaborn datasets](#pandas-groupby-function-using-seaborn-datasets)
   - [Sorting Data in Pandas](#sorting-data-in-pandas)
   - [Pandas `replace`](#pandas-replace)
   - [Pandas `rolling`](#pandas-rolling)
   - [Pandas `where`](#pandas-where)
-
----
-
-## Data Cleaning with Pandas
-
-The project file is [pandas_data_cleaning.ipynb](./pandas_data_cleaning.ipynb)
-
-This project performs data cleaning and exploratory analysis on cricket match statistics. The analysis includes:
-
-- Renaming columns for clarity (Mat → Matches, NO → Not_Outs, etc.)
-- Handling missing values
-- Removing duplicate entries
-- Extracting player names and country codes from combined fields
-- Parsing year ranges into separate columns
-- Converting data types and removing special characters (+, \*) from numeric fields
-
-The project could be coded along following this link:  
-[Real World Data Cleaning in Python Pandas (Step By Step)](https://www.youtube.com/watch?v=iaZQF8SLHJs)
 
 ---
 
